@@ -50,13 +50,16 @@ export default function Contact() {
               <h2 className="title-font font-semibold text-white tracking-widest text-xs">
                 EMAIL
               </h2>
-              <a className="text-indigo-400 leading-relaxed">
-                evillalba510@email.com
+              <a
+                href="mailto:evillalba510@gmail.com"
+                className="text-indigo-400 leading-relaxed"
+              >
+                evillalba510@gmail.com
               </a>
               <h2 className="title-font font-semibold text-white tracking-widest text-xs mt-4">
                 TELÉFONO
               </h2>
-              <p className="leading-relaxed">57 300-802-4319</p>
+              <p className="leading-relaxed">+57 300-802-4319</p>
             </div>
           </div>
         </div>
