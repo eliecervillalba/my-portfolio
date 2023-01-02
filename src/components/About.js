@@ -8,16 +8,16 @@ export default function About() {
           <h1 className="title-font sm:text-4xl text-3xl mb-4 font-medium text-white">
             Hola, soy Eliecer.
             <br className="hidden lg:inline-block" />
-            Full Stack Developer Jr. Advanced
+            Full Stack Developer
           </h1>
           <p className="mb-8 leading-relaxed">
-            En mi recorrido de 15+ años por la industria IT como analista de
-            sistemas, agente de soporte, coordinador de sevicios, encargado de
-            control de calidad de software y ahora como desarrollador web full
-            stack; he aprendido el valor de trabajar en equipo, la proactividad,
-            el aprendizaje continuo, la autonomía en el trabajo, el compromiso y
-            la responsabilidad, no solo en el trabajo; sino también, en mi vida
-            personal. ¡Doy gracias a la vida por eso!
+            En mi recorrido de 15+ años por la industria IT como Especialista de
+            de soporte IT software, Admin de sevicios IT, QA & Testing y ahora
+            como desarrollador web full stack; he aprendido el valor de trabajar
+            en equipo, la proactividad, el aprendizaje continuo, la autonomía en
+            el trabajo, el compromiso y la responsabilidad, no solo en el
+            trabajo, sino también en mi vida personal. ¡Doy gracias a la vida
+            por eso!
           </p>
           <div className="flex justify-center">
             <a

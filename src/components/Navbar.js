@@ -24,7 +24,7 @@ export default function Navbar() {
             Testimonios
           </a>
           <a
-            href="https://github.com/evillalba510"
+            href="https://github.com/eliecervillalba"
             target="_blank"
             rel="noopener noreferrer"
             className="mr-5 hover:text-white"

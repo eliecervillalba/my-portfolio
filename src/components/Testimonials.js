@@ -8,7 +8,7 @@ export default function Testimonials() {
       <div className="container px-5 py-10 mx-auto text-center">
         <UsersIcon className="w-10 inline-block mb-4" />
         <h1 className="sm:text-4xl text-3xl font-medium title-font text-white mb-12">
-          Testimonios de Socios
+          Testimonios
         </h1>
         <div className="flex flex-wrap m-4">
           {testimonials.map((testimonial) => (
@@ -28,6 +28,9 @@ export default function Testimonials() {
                     </span>
                     <span className="text-gray-500 text-sm uppercase">
                       {testimonial.company}
+                    </span>
+                    <span className="text-gray-500 text-sm">
+                      {testimonial.position}
                     </span>
                   </span>
                 </div>
