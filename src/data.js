@@ -2,9 +2,9 @@ export const projects = [
   {
     title: "Blue Bird Store",
     subtitle: "e-commerce",
-    description: `Es una SPA de comecio de comercio electrónico. Características más notables: búsqueda interactiva de productos, 
-    filtros por clasificaciones, carta de ventas, favoritos, carro de compras, pasarela de pagos, enví automático de emails de estado 
-    de pedidos, autenticación de usuarios Auth0.  CMS para gestión de productos, variantes, pedidos, clasificaciones, usuarios, entre otros.`,
+    description: `Es una Single Page Application (SPA) de comecio electrónico. Características más notables: búsqueda interactiva de productos, 
+    filtros por clasificaciones, carta de ventas, favoritos, carro de compras, pasarela de pagos, envío automático de email de estado 
+    de pedidos, autenticación de usuarios Auth0.  CMS para la gestión de productos, variantes, clasificaciones, pedidos, usuarios, entre otros.`,
     image: "https://media.giphy.com/media/qdMmoTuFqn24ixSagq/giphy.gif",
     link: "https://bluebirdstore.vercel.app",
   },
@@ -17,22 +17,22 @@ export const skills = [
   "Express",
   "SQL",
   "PostgresSQL",
-  "Tailwind CSS",
+  "Tailwindcss",
   "Postman",
-  "Jira",
+  "Jira + Confluence",
   "Confluence",
-  "Metodología agile SCRUM",
+  "SCRUM",
 ];
 
 export const testimonials = [
   {
     name: "Pablo Lesta",
     company: "Henry Bootcamp",
-    quote: `Eliecer es un gran compañero y lider nato , persona totalmente proactiva y comprometida con sus tareas .
-Exelente desempeño en el marco laboral y estudiantil . Aptitudes destacables tanto en lo tecnico como en el factor humano .`,
+    quote: `Eliecer es un gran compañero y lider nato, persona totalmente proactiva y comprometida con sus tareas.
+Exelente desempeño en el marco laboral y estudiantil. Aptitudes destacables tanto en lo técnico como en el factor humano .`,
     image:
       "https://media.licdn.com/dms/image/C4D03AQH2VKK1UpcbSg/profile-displayphoto-shrink_100_100/0/1647973146087?e=1678320000&v=beta&t=DQ8mBjmwXNOMvyiO-hxuDm103qdMfORu5r7yrZbSSWk",
-    position: "Colega",
+    position: "Software Developer",
   },
   {
     name: "Juan Carlo Álvarez",
